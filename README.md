@@ -23,3 +23,4 @@ flow transactions send transactions/locktemplate.cdc --arg UInt64:1  --network t
 ## Command to unlock template argument template ID
 
 flow transactions send transactions/unlocktemplate.cdc --arg UInt64:1  --network testnet --signer testnet-account# flowSmartcontracts
+# flowSmartcontracts
